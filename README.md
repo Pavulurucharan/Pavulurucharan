@@ -1,93 +1,101 @@
-<h1 align="center">⚡ Hey there! I'm Pavuluru Charan Kumar ⚡</h1>
+<!-- Profile Header with Banner (optional) -->
+<h1 align="center">✨ Pavuluru Charan Kumar ✨</h1>
+<p align="center">🚀 Python Dev | 🛡️ Security Enthusiast | 🌐 Networking Geek | ⚡ Lifelong Learner</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Python+%7C+Security+%7C+Networking;Always+Building+%26+Learning..." alt="Typing SVG" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/pavuluru-charan-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:charanpavuluru123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Pavulurucharan">
-    <img src="https://img.shields.io/github/followers/Pavulurucharan?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/Pavulurucharan?label=GitHub&style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-🎓 Electronics and Communication Engineer (2019–2023) from **Saveetha Engineering College**  
-💻 Passionate about **Python Development**, **Networking**, and **Security**  
-📚 Lifelong learner of **Tech & Innovation**  
-🌍 Based in **India** 🇮🇳  
-💼 Open to **collaborations** and **career opportunities**
+
+- 🎓 ECE Graduate – **Saveetha Engineering College** (2019–2023)  
+- 🐍 Passionate about **Python**, **Networking**, and **Cybersecurity**  
+- 🧠 Currently exploring **automation**, **scripts**, and **ethical security practices**  
+- 🔗 Open for **internships**, **collaborations**, and cool tech ideas  
+- 📍 Based in India 🇮🇳
 
 ---
 
-## 💼 Internship & Projects
+## 🧠 Tech Toolbox
 
-### 🧪 Application Testing Intern @ Wabi Tech
-- Conducted **UAT** to identify & report bugs.
-- Collaborated with cross-functional teams for efficient testing.
-
-### 🔐 [Client-Server User Management App](https://github.com/Pavulurucharan/your-repo)
-- Developed secure **client-server** model using **Python**, **MySQL**, and **SHA-256**.
-- Focused on authentication, encryption, and error handling.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,linux,pandas,numpy,github,vscode,pycharm" />
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Internship
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 👨‍💻 Intern – Wabi Tech Company
+- ✅ Performed **UAT Testing** on real-world applications  
+- 🐛 Identified & reported bugs | 🎯 Improved testing flow  
+- 💬 Collaborated with cross-functional teams to deliver better UX
 
-### 📚 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+---
 
-### 🧩 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🔥 Highlight Project
+
+### 🛡️ Client-Server User Management App
+> A secure Python application using **sockets, MySQL**, and **SHA-256 hashing**  
+> 🎯 Focused on **authentication**, **network communication**, and **error handling**
+
+🔗 [Check it out](https://github.com/Pavulurucharan)
 
 ---
 
 ## 🏆 Achievements
-- 💼 Secured **Paid Internship** at Wabi Tech Company  
-- 🎓 Earned **NPTEL Python Programming Certificate**  
-- 📘 Business English Certification from **Cambridge University**  
-- 🏅 Represented in **Mandal Level Kabaddi Competitions**
+
+- 💼 **Paid Internship** offer from Wabi Tech  
+- 🧪 **NPTEL Certified in Python Programming**  
+- 🗣️ **Cambridge Business English Certification**  
+- 🏅 Kabaddi player at **Mandal Level** tournaments
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavulurucharan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pavulurucharan&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavulurucharan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavulurucharan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavulurucharan&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
----
-
-## 🐍 Watch the Snake Eat My Contributions!
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pavulurucharan/Pavulurucharan/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavulurucharan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="50%" />
 </p>
 
 ---
 
-## 📫 Let’s Connect
+## 🐍 Contribution Snake Game
 
-- 📧 **Email**: [charanpavuluru123@gmail.com](mailto:charanpavuluru123@gmail.com)  
-- 💼 **LinkedIn**: [Pavuluru Charan Kumar](https://linkedin.com/in/pavuluru-charan-kumar)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pavulurucharan/Pavulurucharan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
-> ⭐ *"Learning never exhausts the mind."* – Leonardo da Vinci
+## 📬 Let's Connect
+
+- 💌 [charanpavuluru123@gmail.com](mailto:charanpavuluru123@gmail.com)  
+- 🔗 [LinkedIn – pavuluru-charan-kumar](https://linkedin.com/in/pavuluru-charan-kumar)
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
