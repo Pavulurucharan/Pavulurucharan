@@ -1,101 +1,79 @@
-<!-- Profile Header with Banner (optional) -->
-<h1 align="center">✨ Pavuluru Charan Kumar ✨</h1>
-<p align="center">🚀 Python Dev | 🌐 Networking Geek | ⚡ Lifelong Learner</p>
+<h1 align="center">Hi 👋, I'm Pavuluru Charan Kumar</h1>
+<h3 align="center">Aspiring Software Developer | Python Enthusiast | Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Python+%7C+Networking;Always+Building+%26+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Python+Developer;Cloud+and+Networking+Explorer;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/pavuluru-charan-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:charanpavuluru123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Pavulurucharan">
-    <img src="https://img.shields.io/github/followers/Pavulurucharan?label=GitHub&style=for-the-badge&logo=github" />
-  </a>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+### 🔧 Skills & Tools:
+- **Languages**: Python, SQL
+- **Libraries**: NumPy, Pandas, Beautiful Soup
+- **Database**: MySQL
+- **Operating Systems**: Linux
+- **Tools**: VS Code, PyCharm, SQL Workbench, Google Colab, GitHub
+- **Soft Skills**: Logical Thinking, Communication, Teamwork, Problem Solving
+
+---
+
+### 👨‍💻 About Me:
+- 🎓 Graduated in **Electronics and Communication Engineering** from Saveetha Engineering College with **84%**.
+- 🧪 Completed an **Application Testing Internship** at Wabi Tech Company.
+- 🔐 Built a **Client-Server User Management Application** using Python, MySQL, Sockets & SHA-256.
+- 🏅 Certified in **Business English** by Cambridge and **Python Programming** by NPTEL.
+
+---
+
+### 🏆 Achievements:
+- ✅ Received a **paid internship offer** via Internshala.
+- 🧑‍💼 Led Red Group Team as **Captain** for 2 years in school.
+- 💻 Participated in multiple **coding competitions**.
+- 🏋️ Represented Mandal in **Kabaddi competitions**.
+
+---
+
+### 🌱 Interests:
+📷 Photography • 🌾 Farming • 🌐 Tech Surfing • 📚 Reading Tech Books & Comics
+
+---
+
+### 📫 Connect with Me:
+
+<p align="left">
+  <a href="mailto:charanpavuluru123@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pavuluru-charan-kumar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 ECE Graduate – **Saveetha Engineering College** (2019–2023)  
-- 🐍 Passionate about **Python**, **Networking**, and **Cybersecurity**  
-- 🧠 Currently exploring **automation**, **scripts**, and **ethical security practices**  
-- 🔗 Open for **internships**, **collaborations**, and cool tech ideas  
-- 📍 Based in India 🇮🇳
-
----
-
-## 🧠 Tech Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python, aws, mysql,linux,pandas,numpy,github,vscode,pycharm" />
-</div>
-
----
-
-## 💼 Internship
-
-### 👨‍💻 Intern – Wabi Tech Company
-- ✅ Performed **UAT Testing** on real-world applications  
-- 🐛 Identified & reported bugs | 🎯 Improved testing flow  
-- 💬 Collaborated with cross-functional teams to deliver better UX
-
----
-
-## 🔥 Highlight Project
-
-### 🛡️ Client-Server User Management App
-> A secure Python application using **sockets, MySQL**, and **SHA-256 hashing**  
-> 🎯 Focused on **authentication**, **network communication**, and **error handling**
-
-🔗 [Check it out](https://github.com/Pavulurucharan)
-
----
-
-## 🏆 Achievements
-
-- 💼 **Paid Internship** offer from Wabi Tech  
-- 🧪 **NPTEL Certified in Python Programming**  
-- 🗣️ **Cambridge Business English Certification**  
-- 🏅 Kabaddi player at **Mandal Level** tournaments
-
----
-
-## 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavulurucharan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavulurucharan&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavulurucharan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavulurucharan&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavulurucharan&layout=compact&theme=radical" height="150">
 </p>
 
 ---
 
-## 🐍 Contribution Snake Game
+### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pavulurucharan/Pavulurucharan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://streak-stats.demolab.com/?user=Pavulurucharan&theme=radical&hide_border=true" />
+</p>
+
+
+---
+
+### 🧠 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
 ---
 
-## 📬 Let's Connect
+### 🧑‍🚀 Fun Fact
+> "The best way to learn is to build. And break. And build again."
 
-- 💌 [charanpavuluru123@gmail.com](mailto:charanpavuluru123@gmail.com)  
-- 🔗 [LinkedIn – pavuluru-charan-kumar](https://linkedin.com/in/pavuluru-charan-kumar)
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
