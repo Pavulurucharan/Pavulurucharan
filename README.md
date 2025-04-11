@@ -56,14 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavulurucharan&layout=compact&theme=radical" height="150">
 </p>
 
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pavulurucharan&theme=radical&hide_border=true" />
-</p>
-
 
 ---
 
